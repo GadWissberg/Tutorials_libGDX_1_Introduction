@@ -152,3 +152,8 @@ Thumbs.db
 *~
 *.*#
 *#*#
+/.editorconfig
+/gradle/wrapper/
+/gradlew
+/gradlew.bat
+/lwjgl3/nativeimage.gradle
